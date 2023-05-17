@@ -1,0 +1,29 @@
+Exercise 1:
+Write a program that implements a binary search algorithm to search for a given element in a sorted array.
+
+Exercise 2:
+Write a program that creates a class representing a bank account. The class should have methods to deposit and withdraw money, as well as to check the account balance.
+
+Exercise 3:
+Write a program that implements a stack data structure using a linked list. The stack should have methods to push, pop, and check if it is empty.
+
+Exercise 4:
+Write a program for simple merge sort.
+
+Exercise 5:
+Write a program that creates a class representing a matrix. Implement methods to add, subtract, and multiply matrices.
+
+Exercise 6:
+Write a program that creates a class representing a complex number. Implement methods to add, subtract, multiply, and divide complex numbers.
+
+Exercise 7:
+Write a program that reads a CSV file containing student records (name, age, grade) and calculates the average grade of all students.
+
+Exercise 8:
+Write a program that implements a binary tree data structure. The tree should have methods to insert and search for elements.
+
+Exercise 9:
+Write a program that reads a JSON file containing a list of employees and their salaries. Calculate and print the total salary expenditure of the company.
+
+Exercise 10:
+Write a program that creates a class representing a linked list. Implement methods to insert, delete, and search for elements in the list.

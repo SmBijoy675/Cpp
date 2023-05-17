@@ -1,0 +1,29 @@
+Exercise 1:
+Write a program that asks the user to enter two numbers and prints their sum.
+
+Exercise 2:
+Write a program that calculates and prints the factorial of a given number. The factorial of a non-negative integer n is the product of all positive integers less than or equal to n.
+
+Exercise 3:
+Write a program that checks whether a given number is prime or not. A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+
+Exercise 4:
+Write a program that asks the user to enter a string and prints the length of the string.
+
+Exercise 5:
+Write a program that takes an array of integers as input and prints the sum of all the elements in the array.
+
+Exercise 6:
+Write a program that calculates the Fibonacci sequence up to a given number. The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones.
+
+Exercise 7:
+Write a program that takes a sentence as input and counts the number of vowels and consonants in it.
+
+Exercise 8:
+Write a program that asks the user to enter a number and prints its reverse. For example, if the input is 12345, the output should be 54321.
+
+Exercise 9:
+Write a program that checks whether a given string is a palindrome or not. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward.
+
+Exercise 10:
+Write a program that generates a random number between 1 and 100 and asks the user to guess the number. Provide feedback to the user, indicating whether the guess is too high or too low, until the correct number is guessed.
