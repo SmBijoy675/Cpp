@@ -1,1 +1,1 @@
-Here are some baasic and advance task and the solution for C++ langauage.
+Here are some basic and advance task given for C++ langauage.
